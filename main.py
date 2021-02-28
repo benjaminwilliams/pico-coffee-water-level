@@ -15,7 +15,7 @@ def startup():
     time.sleep(0.1)
     lights.ten()
     time.sleep(0.1)
-    ligths.reset()
+    lights.reset()
 
 startup()
 
